@@ -1,1 +1,1 @@
-Simple 2048 written in C++ using WinApi
+Simple 2048 using WinApi written in C++
