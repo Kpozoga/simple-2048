@@ -1,0 +1,3 @@
+﻿  PwSG1-2019.cpp
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(541,23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PwSG1-2019.vcxproj -> C:\Users\Krzychu\source\repos\PwSG1-2019\Debug\PwSG1-2019.exe

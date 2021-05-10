@@ -1,0 +1,7 @@
+﻿  PwSG1-2019.cpp
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(55,33): warning C4477: 'swprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'WPARAM'
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(55,33): message : consider using '%lld' in the format string
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(55,33): message : consider using '%Id' in the format string
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(55,33): message : consider using '%I64d' in the format string
+C:\Users\Krzychu\source\repos\PwSG1-2019\PwSG1-2019\PwSG1-2019.cpp(541,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PwSG1-2019.vcxproj -> C:\Users\Krzychu\source\repos\PwSG1-2019\x64\Debug\PwSG1-2019.exe
